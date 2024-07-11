@@ -65,7 +65,7 @@ If you use the Noetic Docker container instead of running the main_noetic.py pyt
 
 ### Usage
 
-Super user priviliges may be necessary when starting main_noetic.py on the host instead of using the Noetic Docker container. 
+Superuser privileges may be necessary when starting main_noetic.py on the host instead of using the Noetic Docker container. 
 
 0. Configure Pepper's IP, Ollama (Docker) REST API etc. in the parameters.py files. And make sure you have the NaoQi SDK folder inside the ros-kinetic directory. 
 
@@ -129,6 +129,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Special Thanks to [Matthias](https://github.com/hirschmanner) for his guidance and support
+* Special thanks to [Matthias](https://github.com/hirschmanner) for his guidance and support
 * [PepperChat](https://github.com/ilabsweden/pepperchat)
 * [Pepper Speech Recognition](https://github.com/JBramauer/pepperspeechrecognition)
