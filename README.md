@@ -34,7 +34,7 @@ Average response time: 5.4s - Pepper is quite quick to response, so the conversa
 * [Fix for 'possible' Pepper SDK library complaint](https://stackoverflow.com/questions/48306849/lib-x86-64-linux-gnu-libz-so-1-version-zlib-1-2-9-not-found/50097275#50097275)
 
 If you want to use ChatGPT instad of LlaMA you need an OpenAI account with API-key -> [chat.openai.com](chat.openai.com)
-
+I filmed a short conversation with Pepper. Unforuntately it's too large for uploading it here, I'm working on that.^^
 
 ## Mockup
 
