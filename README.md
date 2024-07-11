@@ -12,7 +12,7 @@
 
 ## Results
 
-Results for Word Error Rate (WER) evaluation: 
+Results for Word Error Rate (WER) evaluation for different [Whisper](https://github.com/openai/whisper) model sizes: 
 
 ![graph](/eval/wer_graph.svg)
 
