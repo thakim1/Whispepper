@@ -12,7 +12,8 @@
 
 ## Results
 
-[![Watch the video](https://www.youtube.com/watch?v=j7Ir2NxGRQY)
+### Original rlease, July 2024
+[![Watch the video](/eval/RV_setup_sketch.jpg)](https://www.youtube.com/watch?v=j7Ir2NxGRQY)
 
 
 Results for Word Error Rate (WER) evaluation for different [Whisper](https://github.com/openai/whisper) model sizes: 
