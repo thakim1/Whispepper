@@ -12,8 +12,7 @@
 
 ## Results
 
-### Original rlease, July 2024
-To watch the video on Youtube, click the sketch.
+### Original release July 2024, click the sketch to watch.
 [![Video_thumbnail](/eval/RV_setup_sketch.jpg)](https://www.youtube.com/watch?v=j7Ir2NxGRQY)
 
 
