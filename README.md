@@ -12,6 +12,9 @@
 
 ## Results
 
+[![Watch the video](https://www.youtube.com/watch?v=j7Ir2NxGRQY)
+
+
 Results for Word Error Rate (WER) evaluation for different [Whisper](https://github.com/openai/whisper) model sizes: 
 
 ![graph](/eval/wer_graph.svg)
@@ -35,7 +38,6 @@ Average response time: 5.4s - Pepper is quite quick to response, so the conversa
 
 If you want to use ChatGPT instad of LlaMA you need an OpenAI account with API-key -> [chat.openai.com](chat.openai.com)
 
-Note: I filmed a short conversation with Pepper. Unforuntately it's too large for uploading it here, I'm working on that.^^
 
 ## Mockup
 
